@@ -1,0 +1,2 @@
+# program
+untuk isi kodingan 
